@@ -1,0 +1,5 @@
+user_files/*
+__pycache__/
+build/
+repo/
+*.pyc
